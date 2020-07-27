@@ -1,5 +1,5 @@
 # OneWeekHackathon2020
-for One Week Hackathon 2020
+
  Our inspiration came from an idea of leveraging scenarios where we can join two Azure services Azure Sentinel and Azure Data Explorer (ADX) together. 
  
  Why Sentinel and ADX, what scenario is behind: 
