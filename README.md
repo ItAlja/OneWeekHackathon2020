@@ -15,9 +15,9 @@
  During this hackathon we would like focus on following steps divided into two segments: 
  
  Segment 1 - infrastructure (Azure Sentinel) 
- -- present optimal way how data can be exported/imported from/to LA  
- -- testing approach where we can aggregate log data and speed up in data preprocessing (aggregate the alerts based on rules we can create on the Sentinel site and make them available on the ADX site) 
+ - present optimal way how data can be exported/imported from/to LA  
+ - testing approach where we can aggregate log data and speed up in data preprocessing (aggregate the alerts based on rules we can create on the Sentinel site and make them available on the ADX site) 
  
  Segment 2 - ML 
- -- plan for data preprocessing for RNN 
- -- plan for test and build models 
+ - plan for data preprocessing for RNN 
+ - plan for test and build models 
